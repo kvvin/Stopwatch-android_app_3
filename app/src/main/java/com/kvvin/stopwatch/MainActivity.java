@@ -20,7 +20,7 @@ public class MainActivity extends Activity {
         runTimer();
     }
 
-    public void onCLickStart(View view){
+    public void onClickStart(View view){
         running = true;
     }
     public void onClickStop(View view){
